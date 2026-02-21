@@ -18,7 +18,7 @@ import schemas
 
 load_dotenv()
 
-Base.metadata.create_all(bind=engine)
+#Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="Event Booking API")
 
