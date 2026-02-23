@@ -4,7 +4,7 @@ import {
   ScrollView, ActivityIndicator, StatusBar,
 } from 'react-native';
 
-const BASE_URL = 'http://10.0.2.2:8000';
+const BASE_URL = 'https://react-native-ebon-five.vercel.app';
 
 const CATEGORY_COLORS = {
   Music: '#e91e8c', Tech: '#00bcd4', Sports: '#4caf50',

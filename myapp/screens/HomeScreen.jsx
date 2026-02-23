@@ -5,7 +5,7 @@ import {
   StatusBar, ScrollView,
 } from 'react-native';
 
-const BASE_URL = 'http://10.0.2.2:8000';
+const BASE_URL = 'https://react-native-ebon-five.vercel.app';
 
 const CATEGORIES = ['All', 'Music', 'Tech', 'Sports', 'Food', 'Art', 'Comedy', 'Business'];
 const CATEGORY_EMOJIS = {

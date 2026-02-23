@@ -5,7 +5,7 @@ import {
   Platform, ScrollView,
 } from 'react-native';
 
-const BASE_URL = 'http://10.0.2.2:8000';
+const BASE_URL = 'https://react-native-ebon-five.vercel.app';
 
 export default function RegisterScreen({ navigation }) {
   const [name, setName] = useState('');
