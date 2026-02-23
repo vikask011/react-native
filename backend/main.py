@@ -16,7 +16,7 @@ from database import engine, get_db, Base
 import models
 import schemas
 
-load_dotenv()
+
 
 #Base.metadata.create_all(bind=engine)
 
